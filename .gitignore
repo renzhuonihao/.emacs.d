@@ -1,0 +1,4 @@
+#.emacs.d/仓库的忽略文件
+*~
+*.o
+auto-save-list/
