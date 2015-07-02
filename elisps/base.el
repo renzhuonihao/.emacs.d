@@ -8,8 +8,6 @@
 ;;禁用工具栏
 (tool-bar-mode nil)
 
-
-
 (global-linum-mode 'linum-mode)
 ;;auto show row-num
 ;;自动加载行号
@@ -23,3 +21,5 @@
 
 ;(setq make-backup-files nil)
  ;; 设定不产生备份文件
+
+

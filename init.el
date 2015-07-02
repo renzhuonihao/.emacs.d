@@ -10,3 +10,7 @@
 
 ;载入配色方案
 (require 'color-theme)
+
+;;安装switch-window插件
+(global-set-key (kbd "C-x o") 'switch-window)
+(require 'switch-window)
