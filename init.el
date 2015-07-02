@@ -14,3 +14,8 @@
 ;;安装switch-window插件
 (global-set-key (kbd "C-x o") 'switch-window)
 (require 'switch-window)
+
+
+
+;安装ischeme插件
+(require  'ischeme)
