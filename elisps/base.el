@@ -18,8 +18,3 @@
 ;;允许emacs和外部程序的复制粘贴
 (setq x-select-enable-clipboard t);
 
-
-;(setq make-backup-files nil)
- ;; 设定不产生备份文件
-
-
