@@ -4,6 +4,7 @@
 ;(add-to-list 'load-path "/tmp")
 
 
+
 ;载入基本配置文件
 ;(require 'base)       这两种载入方法都可以
 (load "base.el")
