@@ -43,8 +43,6 @@
 ;载入starcdit.el
 (load "stardict.el")
 
-
-
-
-
-
+;对org-mode进行配置
+(setq org-hide-leading-stars t) ;只高亮显示最后一个层级的*
+(put 'upcase-region 'disabled nil)
